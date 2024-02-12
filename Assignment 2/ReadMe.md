@@ -13,3 +13,6 @@ A spaced between lines will create a paragraph.
 Links are created using brackets to describe the link, and parenthesis to place the link itself.
 This is a [link to my homework repository](https://github.com/jaredevault/devault-webdev-hw/tree/main)
 [Relative URLs](./ReadMe.md) can also be created.
+
+Here is a photo of my dog Hank.
+![Alt text](Hank.PNG)
