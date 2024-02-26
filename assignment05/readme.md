@@ -4,3 +4,6 @@ In this assignment we are hosting another site to demonstrate things we learned 
 
 This is a screenshot of my cloned directory on my local drive. 
 ![alt text](<Images/Screenshot 2024-02-25 203720.png>)
+
+This is a screenshot of my Github Desktop.
+![alt text](<![alt text](<Images/Screenshot 2024-02-25 205042.png>)>)
