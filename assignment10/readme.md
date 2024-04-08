@@ -1,0 +1,1 @@
+This is my readme for assignment 10. Practicing with CSS styling.
