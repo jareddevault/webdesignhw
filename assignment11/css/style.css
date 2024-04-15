@@ -1,3 +1,8 @@
+@font-face{
+    font-family: "myFont";
+    src: url(fonts/enter-sansman.bold-italic.ttf);
+}
+
 div{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
@@ -6,11 +11,6 @@ div{
 }
 
 .title{
-    font-family: myFont;
-    font-size: 80px;
+    font-family: "myFont";
     text-align: center;
-}
-@font-face{
-    font-family: myFont;
-    src: url(fonts/enter-sansman.bold-italic.ttf);
 }
