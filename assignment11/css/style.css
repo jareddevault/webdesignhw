@@ -1,6 +1,6 @@
 @font-face{
-    font-family: "myFont";
-    src: url(fonts/enter-sansman.bold-italic.ttf);
+    font-family: 'trushdex';
+    src: url(fonts/trushdex.ttf);
 }
 
 div{
@@ -11,6 +11,7 @@ div{
 }
 
 .title{
-    font-family: "myFont";
+    font-family: 'trushdex', Arial,;
     text-align: center;
+    font-size: 80px;
 }
