@@ -1,8 +1,3 @@
-@font-face{
-    font-family: 'trushdex';
-    src: url(fonts/trushdex.ttf);
-}
-
 div{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
@@ -11,7 +6,19 @@ div{
 }
 
 .title{
-    font-family: 'trushdex', Arial,;
+    font-family: 'Seymour One', sans-serif;
     text-align: center;
     font-size: 80px;
+    color: aliceblue;
+    background-color: aqua;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+#kitchen:hover {
+    background: url(https://www.xoverland.com/wp-content/uploads//4-1-400x600.jpg);
+    float: right;
+    display: block;
+    width: 400px;
+    height: 600px;
 }
