@@ -61,7 +61,7 @@ body {
   overflow: scroll;
 }
 
-/* Dropdown Button */
+/* Dropdown features below*/
 .dropbtn {
   background-color: #333;
   color: #fff;
@@ -71,13 +71,11 @@ body {
   cursor: pointer;
 }
 
-/* Dropdown container */
 .dropdown {
   position: relative;
   display: inline-block;
 }
 
-/* Dropdown content */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -86,7 +84,6 @@ body {
   z-index: 1;
 }
 
-/* Links inside the dropdown */
 .dropdown-content a {
   color: #333;
   padding: 12px 16px;
@@ -94,17 +91,14 @@ body {
   display: block;
 }
 
-/* Change color of dropdown links on hover */
 .dropdown-content a:hover {
   background-color: #f1f1f1;
 }
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
   background-color: #f1f1f1;
 }

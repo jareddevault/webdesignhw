@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Jared DeVault">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="../css/style.css" type="text/css">
+</head>
+<body>
+    <header>
+        <h1>My Madeup Website</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../pages/about.html">About</a></li>
+                <li>
+                    <a href="../pages/services.html">Services</a>
+                    <ul class="dropdown">
+                        <li><a href="service1.html">Service 1</a></li>
+                        <li><a href="service2.html">Service 2</a></li>
+                        <li><a href="service3.html">Service 3</a></li>
+                    </ul>
+                </li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <img src="../images/sail.png" alt="sail boat">
+        <form action="submit.php" method="post">
+        <form action="submit.php" method="post">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" required><br>
+        
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required><br>
+        
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" rows="4" required></textarea><br>
+        
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    
+
+    <footer>
+        <p>Jared's Assignment 13</p>
+    </footer>
+</body>
+</html>
